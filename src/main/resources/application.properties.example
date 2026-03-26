@@ -1,0 +1,5 @@
+spring.application.name=controledegastos
+spring.datasource.url=jdbc:postgresql://localhost:5432/nome_do_seu_banco
+spring.datasource.username=seu_usuario
+spring.datasource.password=
+spring.jpa.hibernate.ddl-auto=update
